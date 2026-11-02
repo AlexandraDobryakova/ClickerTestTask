@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af240b72f2a12274d8ef2c33b445f68a, type: 3}
+  m_Name: ClickerConfig
+  m_EditorClassIdentifier: Assembly-CSharp::ClickerTestTask.Features.Clicker.Config.ClickerConfig
+  _startingCurrency: 0
+  _clickReward: 1
+  _startingEnergy: 1000
+  _maxEnergy: 1000
+  _energyPerClick: 1
+  _autoClickInterval: 3
+  _energyRegenAmount: 10
+  _energyRegenInterval: 10
